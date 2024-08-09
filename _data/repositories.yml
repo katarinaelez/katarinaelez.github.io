@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - katarinaelez
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - noegroup/tmprss2_structures
+  - haddocking/prodigy-cryst
+  - katarinaelez/protein-ss-pred
+  - katarinaelez/bioinformatics-algorithms
+  - katarinaelez/illumina-450k
+  - katarinaelez/katarinaelez.github.io
+  - bioinform-org/bioinforming-hs
+  - bioinform-org/bioinform-org.github.io
