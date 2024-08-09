@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD student in bioinformatics
 
 profile:
   align: right
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room OG 104</p><br>
+    <p>Arnimallee 12</p>
+    <p>14195 Berlin, Germany</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an early-career researcher in drug discovery. My experience includes conducting and analyzing large-scale molecular simulations for medicinal chemistry, as well as developing deep learning models for protein structure representation.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am a PhD student in bioinformatics at Freie Universität Berlin and part of the <a href='https://www.molgen.mpg.de/IMPRS'>IMPRS-BAC doctoral program</a> at <a href='https://www.molgen.mpg.de/'>Max Planck Institute for Molecular Genetics</a>. In my doctoral research, I have been focusing on computational drug discovery for inhibiting TMPRSS2 (a protease involved in coronavirus cell entry), using docking, molecular dynamics and active learning. This has led to the discovery of a nanomolar TMPRSS2 inhibitor and a patent application for treating COVID-19. During my PhD, I have also gained valuable industry experience through an internship at <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/'>Microsoft Research</a>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond my academic pursuits, I am passionate about teaching and science outreach, helping to inspire the next generation of scientists. Therefore, I have co-founded <a href='https://bioinform-org.github.io/'>Bioinformatika</a>, an NGO dedicated to providing free educational content in bioinformatics to young people from all socio-economic backgrounds.
+
+I am naturally drawn to problem-solving and genuinely motivated to tackle real-world challenges, particularly those with a potential for meaningful impact. Whether in academia or industry, I look forward to contributing to drug discovery, one computational model at a time.
