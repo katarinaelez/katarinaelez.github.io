@@ -53,7 +53,11 @@
       "position": "Research Fellow",
       "url": "https://www.mi.fu-berlin.de/en/math/groups/ai4s/index.html",
       "startDate": "2019-09",
-      "highlights": ["Leading a virtual screening project for TMPRSS2 inhibition, resulting in the discovery of a nanomolar inhibitor and a combination preparation for treating COVID-19.", "Significantly contributed to implementing a virtual screening pipeline comprising preparation (Schrödinger, MGLTools), docking (Smina), MD simulations (OpenMM), custom scoring (MDTraj) and active learning on molecular representations (Scikit-learn).", "Explored different graph neural network models (PyTorch Geometric) for representation learning of protein structures."]
+      "highlights": [
+        "Leading a virtual screening project for TMPRSS2 inhibition, resulting in the discovery of a nanomolar inhibitor and a combination preparation for treating COVID-19.",
+        "Significantly contributed to implementing a virtual screening pipeline comprising preparation (Schrödinger, MGLTools), docking (Smina), MD simulations (OpenMM), custom scoring (MDTraj) and active learning on molecular representations (Scikit-learn).",
+        "Explored different graph neural network models (PyTorch Geometric) for representation learning of protein structures."
+      ]
     },
     {
       "name": "Microsoft",
@@ -85,54 +89,23 @@
   "skills": [
     {
       "name": "Programming/scripting",
-      "keywords": [
-        "Python",
-        "Bash",
-        "R",
-        "MATLAB",
-        "Java",
-        "C/C++"
-      ]
+      "keywords": ["Python", "Bash", "R", "MATLAB", "Java", "C/C++"]
     },
     {
       "name": "Machine learning",
-      "keywords": [
-        "PyTorch",
-        "PyTorch Geometric",
-        "Tensorflow",
-        "Keras",
-        "Scikit-learn"
-      ]
+      "keywords": ["PyTorch", "PyTorch Geometric", "Tensorflow", "Keras", "Scikit-learn"]
     },
     {
       "name": "Data science",
-      "keywords": [
-        "NumPy",
-        "SciPy",
-        "Pandas",
-        "Matplotlib"
-      ]
+      "keywords": ["NumPy", "SciPy", "Pandas", "Matplotlib"]
     },
     {
       "name": "Cheminformatics",
-      "keywords": [
-        "RDKit",
-        "Open Babel",
-        "Autodock Vina",
-        "Biopython",
-        "MDTraj",
-        "OpenMM"
-      ]
+      "keywords": ["RDKit", "Open Babel", "Autodock Vina", "Biopython", "MDTraj", "OpenMM"]
     },
     {
       "name": "Other",
-      "keywords": [
-        "Git",
-        "LaTeX",
-        "Slurm",
-        "Singularity",
-        "Docker"
-      ]
+      "keywords": ["Git", "LaTeX", "Slurm", "Singularity", "Docker"]
     }
   ],
   "languages": [
@@ -156,7 +129,6 @@
       "fluency": "Elementary proficiency",
       "icon": ""
     }
-
   ],
   "certificates": [
     {
