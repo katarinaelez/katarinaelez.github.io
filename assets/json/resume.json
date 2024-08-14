@@ -74,7 +74,10 @@
       "url": "https://bioinfo.se/",
       "startDate": "2019-01",
       "endDate": "2019-05",
-      "highlights": ["Explored different protein structure representations and three- dimensional convolutional neural network architectures.", "Created a deep learning method (Biopython, Keras) for protein model quality assessment."]
+      "highlights": [
+        "Explored different protein structure representations and three- dimensional convolutional neural network architectures.",
+        "Created a deep learning method (Biopython, Keras) for protein model quality assessment."
+      ]
     },
     {
       "name": "Bijvoet Center for Biomolecular Research",
@@ -83,7 +86,10 @@
       "url": "https://www.bonvinlab.org/",
       "startDate": "2017-05",
       "endDate": "2017-03",
-      "highlights": ["Analyzed intermolecular contacts and energetics of biological/crystallographic interfaces in protein complexes.", "Developed a random forest model (Biopython, Scikit-learn) for distinguishing between biological and crystallographic interfaces."]
+      "highlights": [
+        "Analyzed intermolecular contacts and energetics of biological/crystallographic interfaces in protein complexes.",
+        "Developed a random forest model (Biopython, Scikit-learn) for distinguishing between biological and crystallographic interfaces."
+      ]
     }
   ],
   "skills": [
@@ -93,7 +99,13 @@
     },
     {
       "name": "Machine learning",
-      "keywords": ["PyTorch", "PyTorch Geometric", "Tensorflow", "Keras", "Scikit-learn"]
+      "keywords": [
+        "PyTorch",
+        "PyTorch Geometric",
+        "Tensorflow",
+        "Keras",
+        "Scikit-learn"
+      ]
     },
     {
       "name": "Data science",
@@ -101,7 +113,14 @@
     },
     {
       "name": "Cheminformatics",
-      "keywords": ["RDKit", "Open Babel", "Autodock Vina", "Biopython", "MDTraj", "OpenMM"]
+      "keywords": [
+        "RDKit",
+        "Open Babel",
+        "Autodock Vina",
+        "Biopython",
+        "MDTraj",
+        "OpenMM"
+      ]
     },
     {
       "name": "Other",
