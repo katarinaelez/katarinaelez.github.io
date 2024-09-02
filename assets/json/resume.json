@@ -4,20 +4,13 @@
     "image": "",
     "email": "katarina.elez1@gmail.com",
     "url": "https://katarinaelez.github.io/",
-    "summary": "",
+    "summary": "An early-career researcher in drug discovery, with experience in conducting and analyzing large-scale molecular simulations for medicinal chemistry and developing deep learning models for protein structure representation.",
     "location": {
       "address": "Arnimallee 12",
       "postalCode": "14195",
       "city": "Berlin",
       "countryCode": "DE"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "ElezKatarina",
-        "url": "https://twitter.com/ElezKatarina"
-      }
-    ]
+    }
   },
   "education": [
     {
@@ -34,7 +27,8 @@
       "area": "Bioinformatics",
       "studyType": "MSc",
       "startDate": "2017-10",
-      "endDate": "2019-07"
+      "endDate": "2019-07",
+      "courses": ["Grade: 110/110 cum laude", "Thesis: Development of a deep learning method for model quality assessment"]
     },
     {
       "institution": "University of Bari",
@@ -43,12 +37,13 @@
       "area": "Computer Science",
       "studyType": "BSc",
       "startDate": "2013-10",
-      "endDate": "2016-12"
+      "endDate": "2016-12",
+      "courses": ["Grade: 110/110 cum laude", "Thesis: A novel approach for liver and hepatocellular carcinoma segmentation from triphasic CT images"]
     }
   ],
   "work": [
     {
-      "name": "Free University of Berlin",
+      "name": "Free University of Berlin, <a href='https://www.mi.fu-berlin.de/en/math/groups/ai4s/index.html'>group of Prof. Noé</a>",
       "location": "Berlin, Germany",
       "position": "Research Fellow",
       "url": "https://www.mi.fu-berlin.de/en/math/groups/ai4s/index.html",
@@ -60,7 +55,7 @@
       ]
     },
     {
-      "name": "Microsoft",
+      "name": "Microsoft, <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/'>Microsoft Research AI4Science</a>",
       "location": "Berlin, Germany",
       "position": "Researcher Intern",
       "url": "https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/",
@@ -68,7 +63,7 @@
       "endDate": "2023-06"
     },
     {
-      "name": "Science for Life Laboratory",
+      "name": "Science for Life Laboratory, <a href='https://bioinfo.se/'>group of Prof. Elofsson</a>",
       "location": "Stockholm, Sweden",
       "position": "Trainee",
       "url": "https://bioinfo.se/",
@@ -80,7 +75,7 @@
       ]
     },
     {
-      "name": "Bijvoet Center for Biomolecular Research",
+      "name": "Bijvoet Center for Biomolecular Research, <a href='https://www.bonvinlab.org/'>group of Prof. Bonvin</a>",
       "location": "Utrecht, Netherlands",
       "position": "Trainee",
       "url": "https://www.bonvinlab.org/",
@@ -134,17 +129,12 @@
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "English, Italian",
       "fluency": "Full proficiency",
       "icon": ""
     },
     {
-      "language": "Italian",
-      "fluency": "Full proficiency",
-      "icon": ""
-    },
-    {
-      "language": "German",
+      "language": "German, Spanish",
       "fluency": "Elementary proficiency",
       "icon": ""
     }
