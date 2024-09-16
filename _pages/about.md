@@ -9,6 +9,8 @@ profile:
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Katarina Elez</p><br>
+    <p>/kah-tah-REE-nah EH-lez/</p><br>
     <p>Room OG 104</p><br>
     <p>Arnimallee 12</p><br>
     <p>14195 Berlin, Germany</p>
@@ -19,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <p>
-I am an early-career researcher in drug discovery, with experience in conducting and analyzing large-scale molecular simulations for medicinal chemistry and developing deep learning models for protein structure representation.
+I am an early-career researcher in drug discovery, with 5+ years of experience conducting and analyzing large-scale molecular simulations for medicinal chemistry and developing deep learning models for protein structure representation.
 </p>
 
 <p>

@@ -1,10 +1,11 @@
 {
   "basics": {
     "name": "Katarina Elez",
+    "label": "Researcher",
     "image": "",
     "email": "katarina.elez1@gmail.com",
     "url": "https://katarinaelez.github.io/",
-    "summary": "An early-career researcher in drug discovery, with experience in conducting and analyzing large-scale molecular simulations for medicinal chemistry and developing deep learning models for protein structure representation.",
+    "summary": "Early-career researcher in drug discovery, 5+ years of experience conducting and analyzing large-scale molecular simulations for medicinal chemistry and developing deep learning models for protein structure representation.",
     "location": {
       "address": "Arnimallee 12",
       "postalCode": "14195",
@@ -49,8 +50,9 @@
       "url": "https://www.mi.fu-berlin.de/en/math/groups/ai4s/index.html",
       "startDate": "2019-09",
       "highlights": [
-        "Leading a virtual screening project for TMPRSS2 inhibition, resulting in the discovery of a nanomolar inhibitor and a combination preparation for treating COVID-19.",
-        "Significantly contributed to implementing a virtual screening pipeline comprising preparation (Schrödinger, MGLTools), docking (Smina), MD simulations (OpenMM), custom scoring (MDTraj) and active learning on molecular representations (Scikit-learn).",
+        "Analyzing MD simulations of protease-ligand complexes (MDTraj).",
+        "Leading a screening project for TMPRSS2 inhibition which identified a novel nanomolar inhibitor and a combination preparation for treating COVID-19.",
+        "Majorly contributed to implementing a virtual screening pipeline comprising preparation (Schrödinger, MGLTools), docking (Smina), MD simulations (OpenMM), custom scoring (MDTraj) and active learning on molecular representations (Scikit-learn).",
         "Explored different graph neural network models (PyTorch Geometric) for representation learning of protein structures."
       ]
     },
@@ -179,6 +181,18 @@
       "position": "Executive Director",
       "url": "",
       "startDate": "2021-10"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Outdoor activities & sports",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Running",
+        "Swimming",
+        "Scuba diving",
+        "Padel"
+      ]
     }
   ]
 }
