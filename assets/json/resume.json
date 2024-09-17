@@ -96,13 +96,7 @@
     },
     {
       "name": "Machine learning",
-      "keywords": [
-        "PyTorch",
-        "PyTorch Geometric",
-        "Tensorflow",
-        "Keras",
-        "Scikit-learn"
-      ]
+      "keywords": ["PyTorch", "PyTorch Geometric", "Tensorflow", "Keras", "Scikit-learn"]
     },
     {
       "name": "Data science",
@@ -110,14 +104,7 @@
     },
     {
       "name": "Cheminformatics",
-      "keywords": [
-        "RDKit",
-        "Open Babel",
-        "Autodock Vina",
-        "Biopython",
-        "MDTraj",
-        "OpenMM"
-      ]
+      "keywords": ["RDKit", "Open Babel", "Autodock Vina", "Biopython", "MDTraj", "OpenMM"]
     },
     {
       "name": "Other",
@@ -187,12 +174,7 @@
     {
       "name": "Outdoor activities & sports",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Running",
-        "Swimming",
-        "Scuba diving",
-        "Padel"
-      ]
+      "keywords": ["Running", "Swimming", "Scuba diving", "Padel"]
     }
   ]
 }
