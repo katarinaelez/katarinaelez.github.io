@@ -50,10 +50,10 @@
       "url": "https://www.mi.fu-berlin.de/en/math/groups/ai4s/index.html",
       "startDate": "2019-09",
       "highlights": [
-        "Analyzing MD simulations of protease-ligand complexes (MDTraj).",
+        "Analyzing MD simulations of protease-ligand complexes (MDTraj, PyEMMA).",
         "Leading a screening project for TMPRSS2 inhibition which identified a novel nanomolar inhibitor and a combination preparation for treating COVID-19.",
         "Majorly contributed to implementing a virtual screening pipeline comprising preparation (Schrödinger, MGLTools), docking (Smina), MD simulations (OpenMM), custom scoring (MDTraj) and active learning on molecular representations (Scikit-learn).",
-        "Explored different graph neural network models (PyTorch Geometric) for representation learning of protein structures."
+        "Explored different graph neural network architectures. Developed a multi-scale model (PyTorch Geometric) for protein structure representation learning."
       ]
     },
     {
