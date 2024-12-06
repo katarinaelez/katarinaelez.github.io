@@ -21,15 +21,15 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <p>
-I am an early-career researcher in drug discovery, with 5+ years of experience conducting and analyzing large-scale molecular simulations for medicinal chemistry and developing deep learning models for protein structure representation.
+I am a researcher in drug discovery, with 5+ years of experience conducting and analyzing large-scale molecular simulations for medicinal chemistry and developing deep learning models for molecular structure representation.
 </p>
 
 <p>
-Currently, I am pursuing a PhD in the <a href="https://www.fu-berlin.de/">Artificial Intelligence for the Sciences group</a> at <a href="https://www.fu-berlin.de/">Free University of Berlin</a> and am a member of the <a href="https://www.molgen.mpg.de/IMPRS">IMPRS-BAC doctoral program</a> at <a href="https://www.molgen.mpg.de/">Max Planck Institute for Molecular Genetics</a>. I also hold an MSc in bioinformatics with honors from the <a href='https://www.unibo.it/en/'>University of Bologna</a>.
+Currently, I am pursuing a PhD in the <a href="https://www.fu-berlin.de/">AI4Science group</a> at the <a href="https://www.fu-berlin.de/">Free University of Berlin</a> and am a member of the <a href="https://www.molgen.mpg.de/IMPRS">IMPRS-BAC doctoral program</a> at the <a href="https://www.molgen.mpg.de/">Max Planck Institute for Molecular Genetics</a>. I also hold an MSc in Bioinformatics and a BSc in Computer Science, both awarded with honors.
 </p>
 
 <p>
-In my doctoral research, I have been focusing on computational drug discovery for inhibiting <a href="https://www.uniprot.org/uniprotkb/O15393/">TMPRSS2</a> (a protease involved in coronavirus cell entry), using docking, molecular dynamics and active learning. This has led to the discovery of a nanomolar TMPRSS2 inhibitor and a <a href='https://worldwide.espacenet.com/patent/search/family/?q=pn%3DEP4122461A1'>patent application for treating COVID-19</a>. During my PhD, I have also gained valuable industry experience through an internship at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/">Microsoft Research</a>.
+In my doctoral research, I have focused on computational drug discovery for inhibiting <a href="https://www.uniprot.org/uniprotkb/O15393/">TMPRSS2</a>, a protease involved in coronavirus cell entry, using docking, molecular dynamics and active learning. This work resulted in the discovery of a novel nanomolar TMPRSS2 inhibitor and a <a href='https://worldwide.espacenet.com/patent/search/family/?q=pn%3DEP4122461A1'>patent application for a pharmaceutical composition to treat COVID-19</a>. I also worked on multi-scale message passing neural networks for protein representation learning and am currently developing structure-aware chemical language models. I gained valuable industry experience during my PhD through an internship at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/">Microsoft Research</a>.
 </p>
 
 <p>

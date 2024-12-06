@@ -5,7 +5,7 @@
     "image": "",
     "email": "katarina.elez1@gmail.com",
     "url": "https://katarinaelez.github.io/",
-    "summary": "Early-career researcher in drug discovery, 5+ years of experience conducting and analyzing large-scale molecular simulations for medicinal chemistry and developing deep learning models for protein structure representation.",
+    "summary": "Researcher in drug discovery, 5+ years of experience conducting and analyzing large-scale molecular simulations for medicinal chemistry and developing deep learning models for molecular structure representation.",
     "location": {
       "address": "Arnimallee 12",
       "postalCode": "14195",
@@ -111,8 +111,8 @@
       "keywords": ["NumPy", "SciPy", "Pandas", "Matplotlib"]
     },
     {
-      "name": "Cheminformatics",
-      "keywords": ["RDKit", "Open Babel", "Autodock Vina", "Biopython", "MDTraj", "OpenMM"]
+      "name": "Computational chemistry",
+      "keywords": ["RDKit", "Open Babel", "Autodock Vina", "Biotite", "MoleculeKit", "MDTraj", "Biopython", "OpenMM", "PyEMMA"]
     },
     {
       "name": "Other",
@@ -180,9 +180,24 @@
   ],
   "interests": [
     {
-      "name": "Outdoor activities & sports",
+      "name": "Sports and outdoor activities",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Running", "Swimming", "Scuba diving", "Padel"]
+      "keywords": ["Running", "Swimming", "Scuba diving", "Padel", "Hiking"]
+    },
+    {
+      "name": "Creative activities",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Painting", "Pottery", "Candle making", "Travel video creation", "Weaving"]
+    },
+    {
+      "name": "Music",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Blues, R'n'B and soul", "Alternative rock", "Cinematic and orchestral"]
+    },
+    {
+      "name": "Books",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Popular science", "Absurdist fiction", "Mystery fiction"]
     }
   ]
 }
