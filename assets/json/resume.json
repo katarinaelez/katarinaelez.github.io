@@ -5,7 +5,7 @@
     "image": "",
     "email": "katarina.elez1@gmail.com",
     "url": "https://katarinaelez.github.io/",
-    "summary": "Researcher in drug discovery, 5+ years of experience conducting and analyzing large-scale molecular simulations for medicinal chemistry and developing deep learning models for molecular structure representation.",
+    "summary": "Researcher in drug discovery, 6+ years of experience developing molecular machine learning models and analyzing large-scale molecular simulations.",
     "location": {
       "address": "Arnimallee 12",
       "postalCode": "14195",
@@ -50,10 +50,9 @@
       "url": "https://www.mi.fu-berlin.de/en/math/groups/ai4s/index.html",
       "startDate": "2019-09",
       "highlights": [
-        "Analyzing MD simulations of protease-ligand complexes (MDTraj, PyEMMA).",
-        "Leading a screening project for TMPRSS2 inhibition which identified a novel nanomolar inhibitor and a combination preparation for treating COVID-19.",
+        "Led a screening project for TMPRSS2 inhibition which identified a novel nanomolar inhibitor and a combination preparation for treating COVID-19.",
         "Majorly contributed to implementing a virtual screening pipeline comprising preparation (Schrödinger, MGLTools), docking (Smina), MD simulations (OpenMM), custom scoring (MDTraj) and active learning on molecular representations (Scikit-learn).",
-        "Explored different graph neural network architectures. Developed a multi-scale model (PyTorch Geometric) for protein structure representation learning."
+        "Explored different graph neural network architectures. Developed a hierarchical model (PyTorch Geometric) for protein structure representation learning."
       ]
     },
     {
@@ -61,8 +60,16 @@
       "location": "Eindhoven, Netherlands",
       "position": "Guest Researcher",
       "url": "https://molecularmachinelearning.com/",
-      "startDate": "2024-11",
+      "startDate": "2025-02",
       "endDate": "2025-03"
+    },
+    {
+      "name": "Eindhoven University of Technology, <a href='https://molecularmachinelearning.com/'>group of Prof. Grisoni</a>",
+      "location": "Eindhoven, Netherlands",
+      "position": "Guest Researcher",
+      "url": "https://molecularmachinelearning.com/",
+      "startDate": "2024-11",
+      "endDate": "2024-12"
     },
     {
       "name": "Microsoft, <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/'>Microsoft Research AI4Science</a>",
@@ -80,8 +87,7 @@
       "startDate": "2019-01",
       "endDate": "2019-05",
       "highlights": [
-        "Explored different protein structure representations and three- dimensional convolutional neural network architectures.",
-        "Created a deep learning method (Biopython, Keras) for protein model quality assessment."
+        "Developed a deep learning method (Keras, Biopython) based on three-dimensional convolutional neural networks for protein model quality assessment."
       ]
     },
     {
@@ -92,9 +98,17 @@
       "startDate": "2017-05",
       "endDate": "2017-03",
       "highlights": [
-        "Analyzed intermolecular contacts and energetics of biological/crystallographic interfaces in protein complexes.",
-        "Developed a random forest model (Biopython, Scikit-learn) for distinguishing between biological and crystallographic interfaces."
+        "Analyzed intermolecular contacts/energetics and trained a random forest model (Scikit-learn, Biopython) to distinguish biological from crystallographic interfaces."
       ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "NVO Bioinformatika",
+      "location": "Herceg Novi, Montenegro",
+      "position": "Executive Director",
+      "url": "",
+      "startDate": "2021-10"
     }
   ],
   "skills": [
@@ -169,30 +183,21 @@
       "awarder": "TUCEP"
     }
   ],
-  "volunteer": [
-    {
-      "organization": "NVO Bioinformatika",
-      "location": "Herceg Novi, Montenegro",
-      "position": "Executive Director",
-      "url": "",
-      "startDate": "2021-10"
-    }
-  ],
   "interests": [
     {
       "name": "Sports and outdoor activities",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Running", "Swimming", "Scuba diving", "Padel", "Hiking"]
+      "keywords": ["Padel", "Running", "Swimming", "Scuba diving", "Hiking"]
     },
     {
       "name": "Creative activities",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Painting", "Pottery", "Candle making", "Travel video creation", "Weaving"]
+      "keywords": ["Painting", "Pottery", "DIY and crafting", "Travel video editing"]
     },
     {
       "name": "Music",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Blues, R'n'B and soul", "Alternative rock", "Cinematic and orchestral"]
+      "keywords": ["Alternative rock", "Blues, R'n'B and soul", "Cinematic and orchestral"]
     },
     {
       "name": "Books",
