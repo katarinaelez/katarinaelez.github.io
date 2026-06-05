@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student in bioinformatics @ <a href="https://www.fu-berlin.de/">Free University of Berlin</a>
+subtitle:
 
 profile:
   align: right
@@ -11,9 +11,7 @@ profile:
   more_info: >
     <p>Katarina Elez</p><br>
     <p>/kah-tah-REE-nah EH-lez/</p><br>
-    <p>Room OG 104</p><br>
-    <p>Arnimallee 12</p><br>
-    <p>14195 Berlin, Germany</p>
+    <p>Berlin, Germany</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -21,21 +19,21 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <p>
-I am a researcher in drug discovery, with 5+ years of experience conducting and analyzing large-scale molecular simulations for medicinal chemistry and developing deep learning models for molecular structure representation.
+I am a machine learning researcher in drug discovery with 6+ years of experience combining molecular machine learning and large-scale molecular simulations to design therapeutically relevant molecules.
 </p>
 
 <p>
-Currently, I am pursuing a PhD in the <a href="https://www.fu-berlin.de/">AI4Science group</a> at the <a href="https://www.fu-berlin.de/">Free University of Berlin</a> and am a member of the <a href="https://www.molgen.mpg.de/IMPRS">IMPRS-BAC doctoral program</a> at the <a href="https://www.molgen.mpg.de/">Max Planck Institute for Molecular Genetics</a>. I also hold an MSc in Bioinformatics and a BSc in Computer Science, both awarded with honors.
+I am currently pursuing a PhD in the <a href="https://www.fu-berlin.de/">AI4Science group</a> at the <a href="https://www.fu-berlin.de/">Free University of Berlin</a> and am a member of the <a href="https://www.molgen.mpg.de/IMPRS">IMPRS-BAC doctoral program</a> at the <a href="https://www.molgen.mpg.de/">Max Planck Institute for Molecular Genetics</a>. I hold an MSc in Bioinformatics and a BSc in Computer Science, both awarded with honors.
 </p>
 
 <p>
-In my doctoral research, I have focused on computational drug discovery for inhibiting <a href="https://www.uniprot.org/uniprotkb/O15393/">TMPRSS2</a>, a protease involved in coronavirus cell entry, using docking, molecular dynamics and active learning. This work resulted in the discovery of a <a href='https://doi.org/10.1038/s41467-025-62139-5'>novel nanomolar TMPRSS2 inhibitor</a> and a <a href='https://worldwide.espacenet.com/patent/search/family/?q=pn%3DEP4122461A1'>patent application for a pharmaceutical composition to treat COVID-19</a>. I also worked on multi-scale message passing neural networks for protein representation learning and am currently developing structure-aware chemical language models. I gained valuable industry experience during my PhD through an internship at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/">Microsoft Research</a>.
+During my PhD, I developed a virtual screening framework that identified a <a href='https://doi.org/10.1038/s41467-025-62139-5'>novel nanomolar TMPRSS2 inhibitor</a>, which was experimentally validated against multiple coronaviruses and contributed to a <a href='https://worldwide.espacenet.com/patent/search/family/?q=pn%3DEP4122461A1'>patent application for a pharmaceutical composition to treat COVID-19</a>. I have worked on hierarchical message passing neural networks for protein representation learning and am currently developing structure- and geometry-aware chemical language models. I also completed a research internship at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/">Microsoft Research</a>.
 </p>
 
 <p>
-Beyond my academic pursuits, I am passionate about teaching and science outreach, helping to inspire the next generation of scientists. Therefore, I have co-founded <a href="https://bioinform-org.github.io/">Bioinformatika</a>, an NGO dedicated to providing free educational content in bioinformatics to young people from all socio-economic backgrounds.
+Outside research, I am passionate about teaching and scientific outreach. I co-founded <a href="https://bioinform-org.github.io/">Bioinformatika</a>, a non-profit initiative dedicated to providing free bioinformatics education and mentoring opportunities to students from diverse socio-economic backgrounds.
 </p>
 
 <p>
-I am naturally drawn to problem-solving and genuinely motivated to tackle real-world challenges, particularly those with a potential for meaningful impact. Whether in academia or industry, I look forward to contributing to drug discovery, one computational model at a time.
+I am motivated by challenging scientific problems with the potential for real-world impact. Ultimately, I hope to contribute to the development of AI technologies that make drug discovery more successful and more efficient.
 </p>
