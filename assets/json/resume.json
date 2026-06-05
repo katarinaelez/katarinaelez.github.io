@@ -5,7 +5,7 @@
     "image": "",
     "email": "katarina.elez1@gmail.com",
     "url": "https://katarinaelez.github.io/",
-    "summary": "Researcher in drug discovery, 6+ years of experience developing molecular machine learning models and analyzing large-scale molecular simulations.",
+    "summary": "Machine learning researcher in drug discovery; 6+ years of experience in molecular machine learning and large-scale molecular simulations.",
     "location": {
       "address": "Arnimallee 12",
       "postalCode": "14195",
@@ -50,7 +50,7 @@
       "url": "https://www.mi.fu-berlin.de/en/math/groups/ai4s/index.html",
       "startDate": "2019-09",
       "highlights": [
-        "Led a screening project for TMPRSS2 inhibition which identified a novel nanomolar inhibitor and a combination preparation for treating COVID-19.",
+        "Led a drug discovery project for TMPRSS2 inhibition which identified a novel nanomolar inhibitor and a combination preparation for treating COVID-19.",
         "Majorly contributed to implementing a virtual screening pipeline comprising preparation (Schrödinger, MGLTools), docking (Smina), MD simulations (OpenMM), custom scoring (MDTraj) and active learning on molecular representations (Scikit-learn).",
         "Explored different graph neural network architectures. Developed a hierarchical model (PyTorch Geometric) for protein structure representation learning."
       ]
@@ -72,7 +72,7 @@
       "endDate": "2024-12"
     },
     {
-      "name": "Microsoft, <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/'>Microsoft Research AI4Science</a>",
+      "name": "Microsoft Research, <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/'>AI for Science</a>",
       "location": "Berlin, Germany",
       "position": "Researcher Intern",
       "url": "https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/",
@@ -118,7 +118,7 @@
     },
     {
       "name": "Machine learning",
-      "keywords": ["PyTorch", "PyTorch Geometric", "Tensorflow", "Keras", "Scikit-learn"]
+      "keywords": ["PyTorch", "PyTorch Geometric", "Scikit-learn", "Tensorflow", "Keras"]
     },
     {
       "name": "Data science",
@@ -126,11 +126,11 @@
     },
     {
       "name": "Computational chemistry",
-      "keywords": ["RDKit", "Open Babel", "Autodock Vina", "Biotite", "MoleculeKit", "MDTraj", "Biopython", "OpenMM", "PyEMMA"]
+      "keywords": ["RDKit", "Open Babel", "Autodock Vina", "Biotite", "Biopython", "MoleculeKit", "PDBFixer", "MDTraj", "OpenMM", "PyEMMA"]
     },
     {
       "name": "Other",
-      "keywords": ["Git", "LaTeX", "Slurm", "Singularity", "Docker"]
+      "keywords": ["Git", "GitHub Actions", "LaTeX", "Slurm", "Docker"]
     }
   ],
   "languages": [
