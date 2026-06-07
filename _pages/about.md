@@ -27,7 +27,7 @@ I am currently pursuing a PhD in the <a href="https://www.fu-berlin.de/">AI4Scie
 </p>
 
 <p>
-During my PhD, I developed a virtual screening framework that identified a <a href='https://doi.org/10.1038/s41467-025-62139-5'>novel nanomolar TMPRSS2 inhibitor</a>, which was experimentally validated against multiple coronaviruses and contributed to a <a href='https://worldwide.espacenet.com/patent/search/family/?q=pn%3DEP4122461A1'>patent application for a pharmaceutical composition to treat COVID-19</a>. I have worked on hierarchical message passing neural networks for protein representation learning and am currently developing structure-aware chemical language models. I also completed an internship at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/">Microsoft Research</a>.
+During my PhD, I developed a virtual screening framework that identified a <a href='https://doi.org/10.1038/s41467-025-62139-5'>novel nanomolar TMPRSS2 inhibitor</a>, which was experimentally validated against multiple coronaviruses and contributed to a <a href='https://worldwide.espacenet.com/patent/search/family/?q=pn%3DEP4122461A1'>patent application for a pharmaceutical composition to treat COVID-19</a>. I have worked on hierarchical message passing neural networks for protein representation learning and am currently developing a structure-aware chemical language model. I also completed an internship at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/">Microsoft Research</a>.
 </p>
 
 <p>
